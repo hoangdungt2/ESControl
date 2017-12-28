@@ -22,7 +22,8 @@ python setup.py
 ```
 ## Examples
 Currently only one example in the 'examples' folder
-'''
+```
 cd examples
 python Example_scalar.py
-'''
+```
+![alt text](examples/example_scalar.png)
