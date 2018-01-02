@@ -16,7 +16,7 @@ But it still can be used in multivariable scenarios by put many of ESCs in paral
 ## Installation
 Clone the repository
 ```
-git clone https://github.com/hoangdungt2/ESControl
+git clone https://github.com/hoangdungt2/ESControl.git
 cd ESControl
 python setup.py
 ```
